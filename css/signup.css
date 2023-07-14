@@ -1,0 +1,52 @@
+/* .rp{
+
+} */
+
+.main{
+    background-image:url(https://media.istockphoto.com/id/1171920427/photo/squirrel-looks-outside.jpg?s=1024x1024&w=is&k=20&c=FflgncHYmJ-bcLQRDQTPGe-RVawSdfBTy-FkMcpvVxQ=);
+    text-align: center; 
+    margin-left: 100vh;
+    margin-top: 35vh;
+    font-size: 3vh;
+
+
+}
+.border{
+    /* border-style: double; */
+    border-radius: 10px;
+    border-width: 10vh 15px 15px 105px;
+    border-color: rgba(255, 0, 132, 0.884);
+    border-inline: 10px;
+    border: 6px double rgb(255, 0, 0);
+    outline: #fc00ac solid 2px;
+   
+}
+
+::placeholder {
+    color: rgb(255, 0, 4);
+    opacity: 1; /* Firefox */
+  }
+.button {
+    /* display: inline-block; */
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: #bee20ab6;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 4px 9px rgb(255, 0, 153);
+    /* margin-left: 15vh; */
+}
+.button:hover {
+    background-color: #4d0c2d
+}
+
+.button:active {
+    background-color: #ff00fb;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}

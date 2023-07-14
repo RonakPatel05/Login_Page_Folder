@@ -1,0 +1,119 @@
+ /* <style> */
+ body {
+     background-image: url(https://download.baps.org/Data/Sites/1/Media/DownloadableFile/Wallpapers/2018/201810_baps_wallpaper_001.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     width: 100vw;
+     /* width: 100vw; */
+
+     width: 345px;
+     height: 200px;
+     color: rgb(255, 0, 0);
+     font-family: "Lucida Console", "Courier New", monospace;
+ }
+
+ .link {
+     /* padding: 20px; */
+     margin: 10px;
+     color: rgba(255, 136, 0, 0);
+ }
+
+ .z {
+     padding: 5mm;
+     color: rgba(255, 136, 0, 0);
+ }
+
+ .box {
+     position: relative;
+     width: 320px;
+     height: 420;
+     background: transparent;
+     border-radius: 20px;
+     text-align: center;
+     padding: 150px;
+     margin-top: 50px;
+     margin-right: 500px;
+     margin-left: 200px;
+
+     border: 2px solid rgb(230, 15, 15);
+     outline-style: outset;
+     outline-color: rgb(176, 43, 134);
+     border: 2px solid black;
+     outline: #139056 double 10px;
+     text-align: center;
+     
+
+ }
+
+ .inputbox {
+     position: relative;
+     padding: 4mm;
+    text-size-adjust: 200px;
+ }
+
+ .a {
+     text-align: center;
+     /* margin: 10px; */
+     margin-left: 950px;
+     color: #ff00fb;
+ }
+
+ .button {
+     /* display: inline-block; */
+     padding: 15px 25px;
+     font-size: 24px;
+     cursor: pointer;
+     text-align: center;
+     text-decoration: none;
+     outline: none;
+     color: #fff;
+     background-color: #8f5007;
+     border: none;
+     border-radius: 15px;
+     box-shadow: 0 9px rgb(218, 10, 10);
+ }
+
+ .button:hover {
+     background-color: #4d0c2d
+ }
+
+ .button:active {
+     background-color: #ff00fb;
+     box-shadow: 0 5px #666;
+     transform: translateY(4px);
+ }
+
+ /* .container .btn {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            background-color: #f1f1f1;
+            color: black;
+            font-size: 16px;
+            padding: 16px 30px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            text-align: center;
+        } */
+
+ .container .btn:hover {
+     background-color: rgb(60, 0, 255);
+     color: white;
+ }
+
+ a.two:link {
+     color: #00bbff;
+ }
+
+ a.two:visited {
+     color: #0000ff;
+ }
+
+ a.two:hover {
+     font-size: 150%;
+ }
+
+ /* </style> */
