@@ -19,3 +19,11 @@ passwordInput.addEventListener("keyup",(e)=>{
         const requirementItem=requirementlist[item.index];
     });
 });
+
+
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin git@github.com:RonakPatel05/Login_Page_Folder.git
+// git push -u origin main
